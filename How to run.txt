@@ -1,0 +1,19 @@
+How to run from a shell window:
+
+Open console (terminal, command.exe, etc.)
+
+Navigate to inside the Yucky Chocky folder
+
+Compile the code:
+
+javac *.java
+
+Run the code:
+
+java Yucky
+
+Note:
+
+If player inputs a number that is not 1, 2, or 3, the player must enter:
+
+java Yucky
